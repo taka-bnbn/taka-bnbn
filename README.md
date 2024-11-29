@@ -30,7 +30,6 @@ Scan the QR code below to visit my instagram!:
 **taka-bnbn/taka-bnbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Thanks
----
+## Thanks
 I use [this](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file)
 ---
