@@ -5,8 +5,14 @@
 </p>
 ---
 ## Stats
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={taka-bnbn}&theme={taka-bnbn}
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka-bnbn&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka-bnbn&theme=transparent)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
