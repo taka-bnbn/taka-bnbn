@@ -18,8 +18,7 @@
 
 ## Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taka-bnbn)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=taka-bnbn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taka-bnbn)](https://github.com/taka-bnbn/github-profile-trophy)
 
 ---
 
