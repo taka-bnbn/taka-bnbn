@@ -36,4 +36,4 @@
 
 ### Thanks
 I use [this](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file)
-
+and[this](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file)
