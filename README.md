@@ -18,9 +18,8 @@
 
 ## Trophy
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox" alt="GitHub Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=taka-bnbn)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
