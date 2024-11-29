@@ -17,9 +17,11 @@
 ---
 
 ## Trophy
+<p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taka-bnbn)](https://github.com/taka-bnbn/github-profile-trophy)
 
+</p>
 ---
 
 ### Scan the QR code below to visit my Instagram!  
