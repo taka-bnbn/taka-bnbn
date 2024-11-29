@@ -4,6 +4,15 @@
   <img width="400" img src="https://github.com/user-attachments/assets/8d9332b3-e3c9-48a5-b9f1-cf349d146c9e" alt="Animation" />
 </p>
 ---
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
 ---
 Scan the QR code below to visit my instagram!:  
