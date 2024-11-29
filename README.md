@@ -6,7 +6,9 @@
 
 ## Stats
 <p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent)
+
 </p>
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8)
