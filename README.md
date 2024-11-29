@@ -5,7 +5,7 @@
 </p>
 
 ## Stats
-i<p align="center">
+<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent)
 </p>
 <p align="center">
