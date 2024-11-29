@@ -10,16 +10,22 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent)
 
 </p>
+
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8)
 </p>
+
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka-bnbn&theme=transparent)
 </p>
+
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka-bnbn&theme=transparent)
 </p>
+
+
 ## Trophy
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
 ---
