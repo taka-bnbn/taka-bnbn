@@ -6,16 +6,8 @@
 
 ---
 
-### About Me 🌟  
-- 👨‍💻 Passionate about [your expertise, e.g., software development, AI, etc.].  
-- 🌱 Continuously learning [specific skills/topics, e.g., cloud computing, robotics, etc.].  
-- 🚀 Always open to collaborations on [project types or goals].  
-- 💡 Fun fact: [add something quirky, e.g., "I can solve a Rubik's cube in under 1 minute!"].  
-
 ---
-
-### Let's Connect! 🌐  
-Scan the QR code below to visit my [preferred platform, e.g., portfolio, LinkedIn, or Twitter]:  
+Scan the QR code below to visit my instagram!:  
 
 <p align="center">
   <img width="200" src="https://github.com/user-attachments/assets/a2113074-2673-40e0-b9a9-361f86289628" alt="QR Code" />
