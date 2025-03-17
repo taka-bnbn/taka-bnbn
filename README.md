@@ -7,34 +7,7 @@
 
 ---
 
-## Stats
-#<div align="center">
-#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent" alt="Profile Details" />
-#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8" alt="Productive Time" />
-# <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka-bnbn&theme=transparent" alt="Top Languages" />
-#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka-bnbn&theme=transparent" alt="Stats" />
-</div>
-
----
-
-## Trophy
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=taka-bnbn" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### Scan the QR code below to visit my Instagram!  
-
 <div align="center">
   <img width="200" src="https://github.com/user-attachments/assets/a2113074-2673-40e0-b9a9-361f86289628" alt="QR Code" />
 </div>
 
----
-
-### Thanks
-I use [this](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file)
- and[this](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file)
