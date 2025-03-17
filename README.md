@@ -8,11 +8,11 @@
 ---
 
 ## Stats
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8" alt="Productive Time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka-bnbn&theme=transparent" alt="Top Languages" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka-bnbn&theme=transparent" alt="Stats" />
+#<div align="center">
+#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka-bnbn&theme=transparent" alt="Profile Details" />
+#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka-bnbn&theme=transparent&utcOffset=8" alt="Productive Time" />
+# <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka-bnbn&theme=transparent" alt="Top Languages" />
+#  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka-bnbn&theme=transparent" alt="Stats" />
 </div>
 
 ---
